@@ -17,7 +17,6 @@ deploy:
    - 8080
 
 properties:
-  MOD_CLUSTER: modcluster-1-3:6666
   title: Tomcat HelloWorld - Basic-AppZ 2.0.3 
   head_color : Blue
   threads: 2
