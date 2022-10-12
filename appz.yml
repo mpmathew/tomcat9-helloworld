@@ -18,10 +18,10 @@ deploy:
 
 properties:
   title: Tomcat HelloWorld - Basic-AppZ 2.0.3 
-  head_color : Red
+  head_color : Green
   threads: 2
   delay: 15
   next: 15
   download: false
   random : true
-  nano : 89
+  nano : 90
