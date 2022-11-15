@@ -55,7 +55,7 @@
           }
 
           .text-bk {
-              background-color:#3377ff;
+              background-color:#3CB371;
           }
 
           /* Clear floats after the columns */
@@ -77,7 +77,7 @@
     <body>
             <div class="row">
                 <div>
-                    <h1 style="color:#DAA520;"><center>AppZ Demo</center></h1>
+                    <h1 style="color:#FA8072;"><center>AppZ Demo</center></h1>
                     <h2><center>Fully Automated Multi-Cloud Management Platform</center></h2>
                 </div>
             </div>
