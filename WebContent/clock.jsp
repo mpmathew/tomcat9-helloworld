@@ -166,7 +166,7 @@
                 </div>
             </div>
 
-            <div class="row">
+            <div class="row" style="text-align:center; height:2000px">
 
                 <div>
                     <center><img src="images/logo_v1.png" alt="CLOUDBOURNE" class="responsive" height="2000px" style="margin:100px"></center>
