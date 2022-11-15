@@ -160,7 +160,7 @@
                 </div>
                 <div class="column-50" style="text-align:center; height:125px">
                     <h3><center>Application Server</center></h3>
-                    <h2 style="color:#3377ff;"><center><%= application.getServerInfo().indexOf('$') > 0 ? application.getServerInfo().split("/")[0] : application.getServerInfo() %></center></h2>
+                    <h2 style="color:#3CB371;"><center><%= application.getServerInfo().indexOf('$') > 0 ? application.getServerInfo().split("/")[0] : application.getServerInfo() %></center></h2>
                 </div>
                 <div class="column">
                 </div>
